@@ -10,7 +10,7 @@ CMS.getPage = function(id) {
          return "404 - Page not found";
       }
       return data;
-   }
+   });
 };
 
 module.exports = CMS
