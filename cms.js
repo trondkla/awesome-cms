@@ -1,6 +1,6 @@
 var fs = require("fs");
 
-var CSM = {};
+var CMS = {};
 
 CMS.version = "1337.0";
 
